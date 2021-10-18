@@ -56,8 +56,8 @@ Contribution by @wilsonmar
 1. In a Terminal/Command session, install Git, navigate/make a folder, then:
 
    ```
-   git clone https://github.com/justb4/docker-jmeter.git
-   cd docker-jmeter
+   git clone https://github.com/sramlakshmanapptomate/jmeter.git
+   cd jmeter
    ```
 
 1. Run the Build script to download dependencies, including the docker CLI:
