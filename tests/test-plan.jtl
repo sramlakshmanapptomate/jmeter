@@ -1,7 +1,0 @@
-timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
-1630528592644,1593,HTML Page Test,200,OK,Scenario 1 1-1,text,true,,184532,240,1,1,https://www.kadaster.nl/,221,0,120
-1630528592644,225,HTML Page Test-0,301,Moved Permanently,Scenario 1 1-1,text,true,,522,120,1,1,http://www.kadaster.nl/,221,0,120
-1630528592872,1365,HTML Page Test-1,200,OK,Scenario 1 1-1,text,true,,184010,120,1,1,https://www.kadaster.nl/,1125,0,892
-1630528595348,368,HTML Page Test,200,OK,Scenario 1 1-1,text,true,,186293,240,1,1,https://www.kadaster.nl/,88,0,0
-1630528595348,88,HTML Page Test-0,301,Moved Permanently,Scenario 1 1-1,text,true,,522,120,1,1,http://www.kadaster.nl/,88,0,0
-1630528595437,279,HTML Page Test-1,200,OK,Scenario 1 1-1,text,true,,185771,120,1,1,https://www.kadaster.nl/,179,0,0
